@@ -1,3 +1,4 @@
+//Ngô Đức Thắng - 2018381
 function check(test) {
     var count = 0; // đếm số ước của a
     for (let i = 2; i <= Math.sqrt(test); i++) {
