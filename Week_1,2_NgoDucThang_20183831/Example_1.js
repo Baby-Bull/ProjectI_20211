@@ -6,5 +6,5 @@ for (let num = 1; num < 100; num++) {
         }
     }
     if (count != 0 && num > 1)
-        console.log(num);
+        console.log(num+",");
 }

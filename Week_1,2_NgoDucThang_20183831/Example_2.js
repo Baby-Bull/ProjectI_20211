@@ -6,7 +6,7 @@ while (cnt < 21) {
         (temp1 % i == 0) && count++;
     }
     if (count == 0 && temp1 > 1) {
-        console.log(temp1);
+        console.log(temp1 + ",");
         cnt++;
     }
     temp1++;

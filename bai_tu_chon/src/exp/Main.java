@@ -9,7 +9,13 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ManagerOfficer managerOfficer = new ManagerOfficer();
+        System.out.println();
+        System.out.println("---------------------------------------------------------");
+        System.out.println("Ngô Đức Thắng  ");
+        System.out.println("MSSV : 20183831 ");
         while (true) {
+            System.out.println();
+            System.out.println("---------------------------------------------------------");
             System.out.println("Application Manager Officer");
             System.out.println("Enter 1: To insert officer");
             System.out.println("Enter 2: To search officer by name: ");
